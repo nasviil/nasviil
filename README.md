@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🌱 I’m currently learning **PHP, Laravel**
+ 🌱 I’m currently learning **PHP, Laravel, Typescript, NextJS**
 
  </div>
  
